@@ -1,8 +1,9 @@
+const keyOutput = document.getElementById('keyOutput');
 const eventForm = document.getElementById('eventForm');
 const eventList = document.getElementById('eventList');
 const clearBtn = document.getElementById('clearBtn');
 const sampleBtn = document.getElementById('sampleBtn');
-const keyOutput = document.getElementById('keyOutput');
+
 
 function createEvent(title, date, category, desc) {
     const emptyMsg = document.querySelector('.empty-msg');
