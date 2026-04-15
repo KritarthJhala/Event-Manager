@@ -76,9 +76,6 @@ button {
     margin-bottom: 20px;
 }
 
-.event-container {
-    min-height: 200px;
-}
 
 .event-item {
     background: #f7fafc;
@@ -116,4 +113,9 @@ button {
     padding: 15px;
     border: 1px solid #e2e8f0;
     border-radius: 6px;
+}
+
+
+.event-container {
+    min-height: 200px;
 }
